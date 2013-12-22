@@ -6,7 +6,7 @@ All files given on http://paste.laravel.com has been put into its respective fil
 __Make sure to replace \<username\> or \<website\> with your own__
 
 ### STEP 1: update to latest CentOS version
-* ssh root@106.186.117.160
+* ssh root@your-ip-address
 * yum update
 * __Check version__
 * cat /etc/redhat-release

@@ -3,6 +3,8 @@ This is my personal steps in preparing my VPS/Dedicated server for running WordP
 
 All files given on http://paste.laravel.com has been put into its respective files in __etc__ folder above.
 
+__Make sure to replace \<username\> or \<website\> with your own__
+
 ### STEP 1: update to latest CentOS version
 * ssh root@106.186.117.160
 * yum update

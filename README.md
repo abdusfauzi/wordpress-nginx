@@ -1,6 +1,8 @@
 # Wordpress on Nginx + PHP-FPM
 This is my personal steps in preparing my VPS/Dedicated server for running WordPress installation. Due to the nature of Nginx, .htaccess is not supported. We will look into configuration to imimate the how .htaccess normally works.
 
+All files given on http://paste.laravel.com has been put into its respective files in __etc__ folder above.
+
 ### STEP 1: update to latest CentOS version
 * ssh root@106.186.117.160
 * yum update
